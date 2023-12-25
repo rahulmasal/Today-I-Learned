@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import supabase from './supabase';
 import './style.css';
 
+
 const initialFacts = [
   {
     id: 1,
